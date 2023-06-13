@@ -1,6 +1,3 @@
-#Análise de componentes principais 
-#Álvaro Avila (13/jun/2023)
-
 import matplotlib 
 import numpy as np 
 import pandas as pd
